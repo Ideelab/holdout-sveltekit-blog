@@ -1,4 +1,4 @@
-# SvelteKit static blog starter
+# ...blog starter kit
 
 This starter contains everything you need to get up and running with
 [SvelteKit](https://kit.svelte.dev/) as a static site generator for your
